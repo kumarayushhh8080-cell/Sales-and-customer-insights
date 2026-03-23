@@ -35,4 +35,5 @@ The dataset includes:
 	•	Analyzed customer satisfaction through review scores
 	•	Found delivery delays and processing time trends
 	•	Compared year-over-year sales growth
+*Dahboard Preview - Dashoard.png
   
